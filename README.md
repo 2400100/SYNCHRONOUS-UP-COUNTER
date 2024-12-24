@@ -26,21 +26,26 @@ Since the first (LSB) flip-flop needs to toggle at every clock pulse, its J and 
 The next flip-flop need only “recognize” that the first flip-flop’s Q output is high to be made ready to toggle, so no AND gate is needed.
 However, the remaining flip-flops should be made ready to toggle only when all lower-order output bits are “high,” thus the need for AND gates.
 
-**Procedure**
-
-/* write all the steps invloved */
-
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
-*/
+![Screenshot 2024-12-20 142700](https://github.com/user-attachments/assets/c7228071-6f8c-47d2-97a8-6ecffea695fe)
+
+
+Developed by: SUBIKSHA K RegisterNumber: 2400100
 
 **RTL LOGIC UP COUNTER**
 
+
+![Screenshot 2024-12-20 142717](https://github.com/user-attachments/assets/c418069b-06fa-4515-b51f-720614bb41d5)
+
+
 **TIMING DIAGRAM FOR IP COUNTER**
 
-**TRUTH TABLE**
+
+![Screenshot 2024-12-20 142114](https://github.com/user-attachments/assets/5de91679-36bc-43b8-a9bb-001d2887f6e0)
+
 
 **RESULTS**
+
+ SYNCHRONOUS-UP-COUNTER has been studied and verified successfully using quartus software.
