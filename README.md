@@ -26,6 +26,19 @@ Since the first (LSB) flip-flop needs to toggle at every clock pulse, its J and 
 The next flip-flop need only “recognize” that the first flip-flop’s Q output is high to be made ready to toggle, so no AND gate is needed.
 However, the remaining flip-flops should be made ready to toggle only when all lower-order output bits are “high,” thus the need for AND gates.
 
+
+**PROCEDURE**
+
+1.Initialize the shift register to a known state (e.g., all zeros).
+
+2.Input a bit serially into the shift register.
+
+3.Shift the contents of the register one position to the right (or left).
+
+4.Output the shifted bit from the last stage of the register.
+
+5.Repeat steps 2-4 for each bit you want to input and shift.
+
 **PROGRAM**
 
 
@@ -44,6 +57,11 @@ Developed by: SUBIKSHA K RegisterNumber: 2400100
 
 
 ![Screenshot 2024-12-20 142114](https://github.com/user-attachments/assets/5de91679-36bc-43b8-a9bb-001d2887f6e0)
+
+
+**TRUTHTABLE**
+
+![Screenshot 2025-01-02 212559](https://github.com/user-attachments/assets/ad579f46-31f8-4c15-9d56-03dcaea5157b)
 
 
 **RESULTS**
