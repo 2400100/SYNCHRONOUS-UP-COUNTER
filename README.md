@@ -56,12 +56,16 @@ Developed by: SUBIKSHA K RegisterNumber: 2400100
 **TIMING DIAGRAM FOR IP COUNTER**
 
 
-![Screenshot 2024-12-20 142114](https://github.com/user-attachments/assets/5de91679-36bc-43b8-a9bb-001d2887f6e0)
+![Screenshot 2025-01-02 213957](https://github.com/user-attachments/assets/117f867a-3001-4c88-b201-e4921714185f)
+
+
+
 
 
 **TRUTHTABLE**
 
-![Screenshot 2025-01-02 212559](https://github.com/user-attachments/assets/ad579f46-31f8-4c15-9d56-03dcaea5157b)
+![Screenshot 2025-01-02 214030](https://github.com/user-attachments/assets/7bd819dd-80b3-4fbc-9709-f035c576daff)
+
 
 
 **RESULTS**
